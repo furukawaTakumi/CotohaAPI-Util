@@ -1,0 +1,16 @@
+{
+    "endpoints": {
+        "parse": "[API Base URL]/nlp/v1/parse",
+        "ne": "[API Base URL]/nlp/v1/ne",
+        "company": "[API Base URL]/nlp/v1/normalize_ne/company",
+        "coreference": "[API Base URL]/nlp/v1/coreference",
+        "keyword": "[API Base URL]/nlp/v1/keyword",
+        "similarity": "[API Base URL]/nlp/v1/similarity",
+        "sentence_type": "[API Base URL]/nlp/v1/sentence_type",
+        "user_attribute": "[API Base URL]/nlp/beta/user_attribute",
+        "remove_filler": "[API Base URL]/nlp/beta/remove_filler",
+        "detect_misrecognition": "[API Base URL]/nlp/beta/detect_misrecognition",
+        "sentiment": "[API Base URL]/nlp/v1/sentiment",
+        "summary": "[API Base URL]/nlp/beta/summary"
+    }
+}
