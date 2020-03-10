@@ -1,7 +1,7 @@
 {
-    "accessTokenPublish": "https://api.ce-cotoha.com/v1/oauth/accesstokens",
+    "accessTokenPublish": "your access token publish url",
     "forDevelopers": {
-        "apiBaseURL": "https://api.ce-cotoha.com/api/dev",
+        "apiBaseURL": "your api base url",
         "clientId": "your client id",
         "clientSecret": "your client secret"
     }
